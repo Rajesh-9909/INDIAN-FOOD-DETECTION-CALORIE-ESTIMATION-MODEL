@@ -1,5 +1,6 @@
 Name: S.kushal Rajesh Reddy
-project for Edunet using Machine learning
+
+#project for Edunet using Machine learning
 # INDIAN-FOOD-DETECTION-CALORIE-ESTIMATION-MODEL
 INDIAN FOOD DETECTION & CALORIE ESTIMATION MODEL
 
